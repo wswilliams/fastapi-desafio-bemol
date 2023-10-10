@@ -1,7 +1,5 @@
 # fastapi-desafio-bemol
 
-## Desenvolvendo e testando a API com FastAPI e Pytest
-
 # Configuração do Projeto
 
 Este documento descreve os passos necessários para configurar e executar o projeto fastapi-desafio-bemol.
@@ -13,7 +11,7 @@ Antes de começar, certifique-se de que você tenha instalado os seguintes pré-
 - [Python](https://www.python.org/)
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
-- [Git](https://github.com/wswilliams/fastapi-desafio-bemol) (para clonar o repositório)
+- [Github / repositório do projeto](https://github.com/wswilliams/fastapi-desafio-bemol) (para clonar o repositório do projeto fastapi-desafio-bemol)
 
 
 ## Configuração do Ambiente
@@ -49,7 +47,7 @@ Agora que o ambiente está configurado e os contêineres estão em execução, v
 
 1. Inicie o aplicativo Interface Swagger UI:
 
-2. O aplicativo estará acessível em nterface Swagger UI [http://localhost:8003/docs](http://localhost:8003/docs).
+2. O aplicativo estará acessível em [http://localhost:8003/docs](http://localhost:8003/docs).
 
 ## Encerrando o Projeto
 
