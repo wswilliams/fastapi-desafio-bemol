@@ -1,0 +1,26 @@
+Questões
+Responda sucintamente os itens a seguir em um .txt levando as perguntas e as
+respostas para o controle de versão da maneira que julgar mais apropriado:
+
+1. A solução deve ser disponibilizada em Cloud ou On-premise?
+
+  A decisão de disponibilizar sua solução em Cloud ou On-premise (local) depende dos fatores e considerações específicas do projeto e das necessidades do público-alvo.
+  Nesse contexto essa aplicação seria disponibilizada em Cloud pois permite aumentar ou diminuir os recursos de acordo com a demanda do aplicativo.
+  A maior parte da infraestrutura é gerenciada pelo provedor de nuvem, o que reduz a carga de trabalho de gerenciamento de servidores e recursos. 
+  
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, responda qual ferramenta acreditas ser apropriada para o controle de tarefas
+da equipe, a ferramenta é ágil?
+   Trello <https://trello.com/pt-BR> e uma ferramenta agil
+   
+3. Você se sente capaz de liderar esta equipe? Por quê?
+   Sim, atuo a 10 anos na area de software e os dois ultimos anos tive a oportunidade de liderar equipes adquirir habilidades necessárias para liderar um time com eficácia. Contribuindo com 
+   conhecimento técnico e habilidades de comunicação, tomada de decisão e resolução de conflitos. Pretendo a continuar aprendendo e aprimorando minhas habilidades de liderança, estou 
+   sempre aberto ao feedback e disposto a fazer ajustes conforme necessário.
+
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+   Levando em consideração que essa aplicação utiliza controle de versão do github configurar um pipeline de CI/CD para automatizar a construção, teste e implantação da sua aplicação seria uma boa melhoria.
+
+5. Acha válido esse desafio para o processo que está participando?
+   sim, achei um bom desafio
+
+
