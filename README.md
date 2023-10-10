@@ -15,3 +15,13 @@ Teste a seguinte rota - Interface Swagger UI:
 O caminho para o formulário de envio:
 
 1. [http://localhost:8003/clientes/](http://localhost:8003/clientes/)
+
+
+
+## Notação C4 Model: Vsão arquitetural da infraestrutura
+
+<img src="notacao C4 Model_arquitetura.png">
+
+## Diagrama de Design da Solução, Utilizando a notação C4 Model
+
+<img src="diagrama de Design da Solucao.png">
